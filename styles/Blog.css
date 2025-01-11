@@ -1,0 +1,184 @@
+/* styles.css */
+.{
+    margin: 0 auto;
+    padding: 0;
+  }
+  body {
+      margin: 10px;
+      padding: 20px;
+      background-color: white; 
+     
+    }
+    
+    .banner {
+      text-align: left;
+      margin:0 auto ;
+      width: fixed;
+      padding: 40px;
+      background-color: #e8f7f0; 
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+      height: auto; 
+      position: relative; }
+  
+  
+    
+    .header {
+      font-size: 20px;
+      color: rgba(0, 0, 0, 0.404);
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    
+    .title {
+      font-size: 35px;
+      line-height: 1.5;
+      color: black;
+      margin: 15px ;
+      margin-right: 220px;
+    }
+    
+    .btn {
+      background-color: #007f5f;
+      color: white;
+      padding: 15px 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 15px;
+      cursor: pointer;
+      margin-top: 45px;
+    }
+    .btn:hover {
+      background-color: #005941;
+    }
+    .btn1{
+      background-color: #5133e7;
+      color: white;
+      padding: 15px 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 15px;
+      cursor: pointer;
+      margin-top: 45px;
+
+    }
+
+    .btn1:hover{
+
+      background-color: #2319a8;
+    }
+    .btn2{
+      background-color: #033e0d;
+      color: white;
+      padding: 15px 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 15px;
+      cursor: pointer;
+      margin-top: 45px;
+
+    }
+
+    .btn2:hover{
+
+      background-color: #1e5509;
+    }
+    .btn3{
+      background-color: #f3420d;
+      color: white;
+      padding: 15px 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 15px;
+      cursor: pointer;
+      margin-top: 45px;
+
+    }
+
+    .btn3:hover{
+
+      background-color: #d93c0d;
+    }
+    .btn4{
+      background-color: #007f5f;
+      color: white;
+      padding: 15px 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 15px;
+      cursor: pointer;
+
+    }
+    .btn4:hover{
+      background-color: #005941;
+    }
+    
+    .section-description{
+      color: rgba(14, 14, 14, 0.7);
+  }
+  /* skills section */
+  .skills-container{
+      display: flex;
+      gap: 24px;
+  }
+  .skill{
+      padding: 32px;
+      border-radius: 5px;
+      box-shadow:0px 6px 50px 0px rgb(144, 156, 177);
+  
+  }
+  main section{
+      margin-top: 130px;
+      margin-bottom: 130px;
+  }
+  .satalight  {
+    display: flex;
+    gap: 40px;
+    padding: 32px;
+    border-radius: 5px;
+    box-shadow:0px 6px 30px 0px rgb(211, 216, 223);
+    text-align: left;
+  }
+  .bb{
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 1.5;
+    color: black;
+    margin: 15px ;
+   
+  }
+  .sata {
+    border-radius: 10px;
+  }
+  .satalight2{
+    display: flex;
+  
+    gap: 40px;
+     padding: 32px;
+     border-radius: 5px;
+     box-shadow:0px 6px 30px 0px rgb(211, 216, 223);
+     text-align: left;
+   }
+   
+   
+   .child{
+    color: mediumturquoise;
+    border: 2px solid rgb(237, 232, 232);
+    padding: 20px;
+    font-size: 18px;
+    margin: 10px 0;
+    display: inline;
+    gap: 20PX;
+   }
+   .donate{
+    text-align: center;
+    gap: 10px;
+   }
+   .form{
+    margin: 10px;
+     padding: 20px 40px 20px 40px;
+    background-color: #d6e4e1;
+   }
+  
+  

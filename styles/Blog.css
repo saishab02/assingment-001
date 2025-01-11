@@ -1,5 +1,5 @@
 /* styles.css */
-.{
+*{
     margin: 0 auto;
     padding: 0;
   }
@@ -106,6 +106,15 @@
 
       background-color: #d93c0d;
     }
+    .extra2{
+      background-color:rgb(239, 234, 234);
+      border-radius: 10px;
+      padding: 20px 30px;
+      background-image: url(../assets/quote-bg.png);
+      background-repeat: no-repeat;
+      background-position: top left;
+     
+    }
     .btn4{
       background-color: #007f5f;
       color: white;
@@ -169,16 +178,23 @@
    
    
    .child{
-    color: mediumturquoise;
-    border: 2px solid rgb(237, 232, 232);
-    padding: 20px;
-    font-size: 18px;
-    margin: 10px 0;
-    display: inline;
-    gap: 20PX;
+    color: rgba(14, 14, 14, 0.8);
+    border: 1px solid rgba(14, 14, 14, 0.8);
+    border-radius: 16px;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: 700;
+    background-color: rgb(255, 255, 255);
+    
+   }
+   .box{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
    }
    .donate{
     text-align: center;
+    font-size: 40px;
     gap: 10px;
    }
    .form{

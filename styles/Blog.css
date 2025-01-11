@@ -216,4 +216,39 @@
 
     }
   
-  
+  .extra3{
+    text-align: center;
+  }
+  .extra3-rows{
+    width: 60%;
+  }
+  .subscribe{
+    background-color: rgba(78, 173, 134, 0.808);
+    padding: 50px;
+  border-radius: 20px;
+    margin: 50px 30px;
+    text-align: center;
+  }
+.exform{
+  margin: 0px;
+     padding: 20px 250px;
+    background-color: white;
+    border-radius: 13px;
+
+}
+.extext{
+
+  width: 300px;
+  padding: 20px;
+border: none;
+text-align: left;
+
+}
+
+.extext::placeholder{
+  text-align: left;
+   font-style:normal;
+   font-size: 25px;
+
+ }
+
